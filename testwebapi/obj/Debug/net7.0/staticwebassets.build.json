@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XGEA9ndJkvQ8okCn40asaGOKsw1ZCRbfVrs4BcbWNJo=",
+  "Source": "testwebapi",
+  "BasePath": "_content/testwebapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
